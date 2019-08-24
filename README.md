@@ -5,5 +5,6 @@ You will need the following things for this project:
 2) An Adafruit ILI9481 3.5 inch screen (got it from BangGood for $11)
 3) Wire up the circuit diagram.  It's the JPEG.
 4) Installl the SD card library and the Adafruit GFX library
+5) A mini SD card
 
 I think that's all.  Let me know if I'm leaving out anything.
