@@ -1,5 +1,8 @@
 # Lode-Runner-Arduino
 
+Here is a video to see it in action:
+https://www.youtube.com/watch?v=nuQ0NnxIldo
+
 You will need the following things for this project:
 1) An Arduino UNO
 2) An Adafruit ILI9481 3.5 inch screen (got it from BangGood for $11)
